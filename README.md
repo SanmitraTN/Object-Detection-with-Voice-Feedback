@@ -6,7 +6,7 @@ it gives audible output for the detected object's class name. For audio output i
 to get audio files for class names and pygame to play the audio.
 
 ## Introduction
-The repository is tested with Windows 10, and it will also work for Windows 7 and 8. The general procedure can also 
+The repository is tested with Windows 11, and it will also work for Windows 7/8/10. The general procedure can also 
 be used for Linux operating systems, but some minor changes might be required.
 
 ## Steps to run
