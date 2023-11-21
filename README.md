@@ -45,7 +45,3 @@ From the `object_detection` directory open a terminal and activate environment c
 ```bash
 python Object_detection_and_Speech/Object_detection_speech_webcam.py
 ```
-If you want to run object detection with distance warning then:
-```bash
-python Object_detection_and_Speech/Object_detection_with_distance_webcam.py
-```
