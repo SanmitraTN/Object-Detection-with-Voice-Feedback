@@ -1,4 +1,4 @@
-# Object-detection-and-Speech
+# Real-Time-Object-Detection-with-Voice-Feedback
 Live object detection using tensorflow object detection api and speech output using gtss and pygame.
 ## Summary
 This repository is a application of tensorflow object detection api to detect objects in webcam feed and 
